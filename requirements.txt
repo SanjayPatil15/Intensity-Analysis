@@ -15,7 +15,6 @@ numexpr==2.10.1
 numpy==1.26.4
 pandas==2.2.3
 pip==24.2
-py-xgboost==2.1.1
 python==3.10.13
 python-dateutil==2.9.0post0
 python-tzdata==2023.3
