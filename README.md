@@ -5,9 +5,10 @@ This project predicts the **intensity** (happiness, angriness, sadness) in text 
 
 ## File Structure
 - `data/`: Contains the input datasets.
-- `src/`: Source code for preprocessing, feature engineering, training, and evaluation.
-- `model_artifacts/`: Stores the trained models and TF-IDF vectorizer.
+- `app/`: Source code for preprocessing, feature engineering and training.
+- `model/`: Stores the trained models and TF-IDF vectorizer.
 - `requirements.txt`: Lists required Python libraries.
+- `experiment.ipynb`: Experimentation with different models
 
 ## Steps to Run the Project
 1. Install dependencies:
