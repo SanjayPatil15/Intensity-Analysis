@@ -50,3 +50,4 @@ wheel==0.44.0
 xgboost==2.1.1
 xz==5.4.6
 zlib==1.2.13
+gunicorn==20.1.0
