@@ -1,6 +1,5 @@
 blinker==1.6.2
 bottleneck==1.4.2
-bzip2==1.0.8
 ca-certificates==2024.11.26
 click==8.1.7
 flask==3.0.3
