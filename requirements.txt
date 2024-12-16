@@ -14,8 +14,7 @@ mkl_random==1.2.8
 numexpr==2.10.1
 numpy==1.26.4
 pandas==2.2.3
-pip==24.2
-python==3.10.13
+pip==24.3.1
 python-dateutil==2.9.0post0
 python-tzdata==2023.3
 pytz==2024.1
